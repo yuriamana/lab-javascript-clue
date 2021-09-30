@@ -113,7 +113,7 @@ Declare a function named `selectRandom` to randomly select one element from a ca
 
 #### Create the mystery
 
-Declare a function named `pickMystery` that takes no arguments and returns an object with three properties: _suspect_, _weapon_ and _room_, each holding as a value a card of that specific type. You can get a random card of each type by calling `selectRandom` on each card stack.
+Declare a function named `pickMystery` that takes no arguments and returns an object with three properties: _suspect_, _weapon_ and _room_, each holding as a value a card of that specific type. You can get a random card 3of each type by calling `selectRandom` on each card stac,k.
 
 <br>
 
